@@ -1,4 +1,4 @@
-![Hi, i am Fran Llantada ](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+![Hi, i am Fran Llantada ]
 
 <h2 align="center">
 Engineer - MBA - Full Stack from Argentina to :earth_americas:
