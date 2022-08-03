@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-Engineer - MBA - Full Stack from Argentina to :earth_americas:
+Engineer - MBA - Full Stack 
 </h2>
 
 
