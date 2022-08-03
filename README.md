@@ -17,7 +17,7 @@ Teach about management and reporting.<br/>
 Build continuous improvement plans.<br/>
 Develop projects using Next Js, MongoDb, Node Js, Git, React, Zustand, MUI<br/>
 
-Entrepreneur & PM								Sept.17. - Mar. 21. <br/><br/>
+Entrepreneur & PM								Sept.17. - Mar. 21. <br/>
 Dar+ Salud<br/>
 
 Design innovative business models with social impact oriented B2C to emerging markets.<br/>
