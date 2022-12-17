@@ -10,14 +10,14 @@ Creative, innovative thinking, self-taught, team worker, excellent communication
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
 <p>
-<h4>Full Stack Developer</h4>	          							Mar.. 21 - Aug. 22. <br/>
+<h4>Full Stack Developer</h4>	          							Aug. 19 - Now. <br/>
 Dar+ Salud<br/>
 Design technological solutions that allow the scalability of the company<br/>
 Teach about management and reporting.<br/>
 Build continuous improvement plans.<br/>
 Develop projects using Next Js, MongoDb, Node Js, Git, React, Zustand, MUI<br/>
 
-<h4>Entrepreneur & PM	</h4>								Sept.17. - Mar. 21. <br/>
+<h4>Entrepreneur & PM	</h4>								Sept.17. - Aug. 19. <br/>
 Dar+ Salud<br/>
 Design innovative business models with social impact oriented B2C to emerging markets.<br/>
 Develop the network with 30 branches in Argentina.<br/>
