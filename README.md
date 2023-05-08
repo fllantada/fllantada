@@ -10,6 +10,6 @@ Creative, innovative thinking, self-taught, team worker, excellent communication
 
 
   
- https://www.notion.so/franllantada/Francisco-Javier-Llantada-cafc0a99d9774564a1009886b2503f89
+ Resume: https://www.notion.so/franllantada/Francisco-Javier-Llantada-cafc0a99d9774564a1009886b2503f89
 
   
